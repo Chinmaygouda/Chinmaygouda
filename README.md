@@ -56,15 +56,10 @@ I'm a **Full-Stack & AI Developer** from India who builds software that actually
 ### 🌐 Frontend — Web & Mobile
 <p>
   <img src="https://img.shields.io/badge/React%2019-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Angular%2020-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/Ionic%208-3880FF?style=for-the-badge&logo=ionic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shadcn%20UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Recharts-22C55E?style=for-the-badge&logo=chartdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
 </p>
 
 ### ⚙️ Languages
@@ -164,9 +159,16 @@ I'm a **Full-Stack & AI Developer** from India who builds software that actually
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chinmaygouda&theme=tokyo-night&hide_border=true&radius=8" alt="Activity Graph" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chinmaygouda&theme=tokyo-night&area=true&hide_border=true&custom_title=Chinmaygouda's+Contribution+Activity&radius=8" alt="Contribution Activity" width="95%" />
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chinmaygouda&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile&count_private=true&include_all_commits=true" height="165" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chinmaygouda&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,scss,jupyter%20notebook&langs_count=6" height="165" alt="Top Languages" />
+</div>
 
 ---
 
