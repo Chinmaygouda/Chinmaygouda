@@ -27,20 +27,15 @@
 
 ## 🚀 About Me
 
-```python
-developer = {
-    "name":          "Chinmaygouda Patil",
-    "role":          "Full-Stack & AI Developer",
-    "location":      "India 🇮🇳",
-    "email":         "chinmaygoudapatil@gmail.com",
-    "ai_tools":      ["Google AI Studio", "Gemini API", "Groq (Llama 3.3-70B)", "OpenAI API"],
-    "current_build": "AI systems with persistent memory & semantic intelligence",
-    "mobile":        "Angular 20 + Ionic 8 + Capacitor (cross-platform native apps)",
-    "backend":       "FastAPI (Python) + Node.js + Express + PostgreSQL",
-    "hackathons":    ["Redrob AI Hackathon — Neural Slayers Team Leader"],
-    "open_to":       ["AI/ML collaborations", "Full-stack projects", "Hackathons"],
-}
-```
+I'm a **Full-Stack & AI Developer** from India who builds software that actually thinks — and builds it *with* AI. I use **Google AI Studio**, **Antigravity IDE**, **Gemini**, and **Claude** as my daily development tools, making me significantly faster and more capable than a traditional solo dev.
+
+- 🤖 &nbsp;**AI Stack** — Google AI Studio · Gemini API · Groq (Llama 3.3-70B) · OpenAI API · Sentence-Transformers
+- 🌐 &nbsp;**Frontend** — React 19 · Next.js · Angular 20 · Ionic 8 · Vite · Tailwind CSS
+- ⚙️ &nbsp;**Backend** — FastAPI · Node.js · Express 5 · PostgreSQL · Supabase · Docker
+- 📱 &nbsp;**Mobile** — Angular + Ionic 8 + Capacitor (Push Notifications, Camera, Haptics)
+- 🛠️ &nbsp;**Built with AI** — Antigravity IDE · Google AI Studio · Gemini · Claude · GitHub Copilot
+- 🏆 &nbsp;**Hackathons** — Redrob AI Hackathon (Team Leader, *Neural Slayers*)
+- 📫 &nbsp;**Reach me** — [chinmaygoudapatil@gmail.com](mailto:chinmaygoudapatil@gmail.com)
 
 ---
 
@@ -68,7 +63,6 @@ developer = {
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Shadcn%20UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Radix%20UI-161618?style=for-the-badge&logo=radixui&logoColor=white" />
   <img src="https://img.shields.io/badge/Recharts-22C55E?style=for-the-badge&logo=chartdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
 </p>
@@ -170,43 +164,21 @@ developer = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chinmaygouda&show_icons=true&theme=tokyonight&rank_icon=percentile&count_private=true&include_all_commits=true&border_radius=10" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chinmaygouda&layout=compact&theme=tokyonight&hide=html,css,scss,jupyter%20notebook&langs_count=8&border_radius=10" height="180" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chinmaygouda&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chinmaygouda&theme=tokyo-night&hide_border=true&radius=8" alt="Activity Graph" width="95%" />
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Chinmaygouda&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</div>
-
----
-
-## 🎯 Currently Working On
-
-- 🧠 **AI with Persistent Memory**: Production-grade agents that learn and improve over time using vector databases and MCP memory banks.
-- 📱 **Native Mobile AI Apps**: Integrating Gemini API into cross-platform Ionic + Capacitor apps.
-- 🤖 **LLM Pipelines**: Building hybrid RAG + rule-based pipelines for smart document understanding and candidate intelligence.
 
 ---
 
 ## 🏆 Highlights
 
-- 🥊 **Redrob AI Hackathon** — Team Leader of *Neural Slayers*, built a production-grade AI resume ranking engine with adversarial trap detection.
-- 🤖 **Google AI Studio Builder** — Multiple apps prototyped and deployed via Google AI Studio with Gemini API integration.
-- ⭐ **Hindsight AI** — 3 GitHub stars for an AI coding assistant with real-time vector memory recall.
+- 🥊 **Redrob AI Hackathon** — Led team *Neural Slayers* as Team Leader, building a production-grade AI resume ranking pipeline with adversarial trap detection. *Built with: Antigravity IDE, Gemini, Claude, GitHub Copilot.*
+- 🤖 **Google AI Studio Builder** — Prototyped and shipped multiple AI-powered web apps directly from Google AI Studio using Gemini Flash & Pro APIs. *Every app co-built with AI assistance.*
+- ⭐ **Hindsight AI** — 3 GitHub stars; an AI coding assistant with real-time vector memory recall (Groq Llama 3.3-70B + Hindsight MCP). *Built with Antigravity IDE & Gemini.*
+- 📊 **VisionSheet** — AI document parser using Gemini 1.5 Flash to convert messy images into structured Excel files; fully containerized with Docker. *Built using Google AI Studio + Antigravity IDE.*
+- 📱 **ATMOS Weather** — Cross-platform mobile app (Angular 20 + Ionic 8 + Capacitor) with Gemini AI, native push notifications, camera & haptics. *Built with Gemini + Antigravity IDE.*
+- 💸 **FinnExpense** — Premium OLED dark-mode fintech tracker with Chart.js analytics, deployed as a native Android app & PWA. *Built using Antigravity IDE + Claude + Gemini.*
+- 🌐 **14 Public Repos** — Spanning AI agents, fintech apps, full-stack SaaS, automation pipelines, and portfolio tooling — all co-developed with AI tools.
 
 ---
 
