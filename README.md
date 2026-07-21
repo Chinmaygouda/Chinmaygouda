@@ -91,83 +91,31 @@ I'm a **Full-Stack & AI Developer** from India who builds software that actually
 
 ## 🏆 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🧠 Hindsight AI</h3>
-      <p align="center"><i>AI Coding Assistant with Persistent Memory</i></p>
-      <p>
-        Full-stack AI coding tutor built with <b>FastAPI + React 19</b>. Powered by <b>Groq (Llama 3.3-70B)</b> for inference and <b>Hindsight Vectorize MCP</b> for vector-based memory retrieval. The system remembers your past coding mistakes and dynamically refines its feedback over time — improving with every session.
-      </p>
-      <p><b>Stack:</b> Python · FastAPI · Groq API · Hindsight MCP · React 19 · Vite · TypeScript</p>
-      <a href="https://github.com/Chinmaygouda/Hindsight-ai">⭐ View Repository</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🤖 Ai-Run — Resume Ranking Engine</h3>
-      <p align="center"><i>Redrob AI Hackathon · Team: Neural Slayers (Leader)</i></p>
-      <p>
-        Hackathon submission for <b>Redrob AI Hackathon</b>. Built a production-grade, hybrid AI resume ranking pipeline. Features <b>Sentence-Transformers</b> embeddings, custom scoring across 8 feature domains (skills, career, behavior, location, experience, title, product-company), and adversarial trap detection (honeypot, keyword-stuffers, duplicate behavioral twins).
-      </p>
-      <p><b>Stack:</b> Python · Sentence-Transformers · Scikit-Learn · FastAPI · React · Shadcn UI · Tailwind · Docker</p>
-      <a href="https://github.com/Chinmaygouda/Ai-run">⭐ View Repository</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">⚡ HackathonHero</h3>
-      <p align="center"><i>AI Copilot for 24-48h Hackathons</i></p>
-      <p>
-        Gemini API-powered copilot deployed on Netlify. Guides teams through 5 structured phases: idea generation, team role planning, time-boxed roadmap creation, real-time AI mentoring, and winning pitch outline generation. Beginner-friendly and battle-tested.
-      </p>
-      <p><b>Stack:</b> TypeScript · Gemini API · React 19 · Vite · Netlify</p>
-      <a href="https://github.com/Chinmaygouda/Hackathon_Hero">⭐ View Repository</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📊 VisionSheet</h3>
-      <p align="center"><i>AI Image-to-Excel Converter</i></p>
-      <p>
-        Containerized Python web application using <b>Gemini 1.5 Flash</b> to parse unstructured document images and convert them into clean, structured Excel spreadsheets. Handles messy tables, invoices, and handwritten data with high accuracy.
-      </p>
-      <p><b>Stack:</b> Python · Gemini 1.5 Flash · Flask · Gunicorn · Docker · TypeScript</p>
-      <a href="https://github.com/Chinmaygouda/VisionSheet">⭐ View Repository</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🌤️ ATMOS — Weather App</h3>
-      <p align="center"><i>Mobile-First Weather Dashboard</i></p>
-      <p>
-        Cross-platform mobile weather app built with <b>Angular 20 + Ionic 8 + Capacitor</b>. Features Gemini AI integration, push notifications, local notifications, camera preview, and haptic feedback for a native-feel experience on Android & web.
-      </p>
-      <p><b>Stack:</b> Angular 20 · Ionic 8 · Capacitor · Gemini AI · TypeScript · SCSS</p>
-      <a href="https://github.com/Chinmaygouda/Weather-app">⭐ View Repository</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">💸 FinnExpense</h3>
-      <p align="center"><i>Fintech Expense Tracker & Analytics</i></p>
-      <p>
-        Premium OLED dark-mode mobile expense tracker with <b>glassmorphism UI</b>. Built with Angular 20 + Ionic 8 + Capacitor for native Android & PWA support. Includes interactive Chart.js cashflow graphs, onboarding flows for fixed expenses, and Google/Email auth.
-      </p>
-      <p><b>Stack:</b> Angular 20 · Ionic 8 · TypeScript · Chart.js · Capacitor · SCSS</p>
-      <a href="https://github.com/Chinmaygouda/expense_tracker">⭐ View Repository</a>
-    </td>
-  </tr>
-</table>
+| &nbsp; | Project | Description | Stack |
+|---|---|---|---|
+| 🧠 | **[Hindsight AI](https://github.com/Chinmaygouda/Hindsight-ai)** | AI coding tutor that remembers your past mistakes & improves over time via vector memory | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=meta&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) |
+| 🤖 | **[Ai-Run](https://github.com/Chinmaygouda/Ai-run)** ⚡ *Hackathon* | Hybrid AI resume ranking engine with adversarial trap detection — Redrob Hackathon (Team Leader) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Scikit](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| ⚡ | **[HackathonHero](https://github.com/Chinmaygouda/Hackathon_Hero)** | Gemini-powered AI copilot guiding teams through full 24-48h hackathon lifecycle | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |
+| 📊 | **[VisionSheet](https://github.com/Chinmaygouda/VisionSheet)** | Converts messy document images into structured Excel files using Gemini 1.5 Flash | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini_Flash-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| 🌤️ | **[ATMOS Weather](https://github.com/Chinmaygouda/Weather-app)** | Cross-platform AI weather app with Gemini, push notifications & native haptics | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white) ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white) |
+| 💸 | **[FinnExpense](https://github.com/Chinmaygouda/expense_tracker)** | OLED dark-mode fintech expense tracker with Chart.js analytics, deployed as Android + PWA | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white) ![ChartJS](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white) |
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chinmaygouda&theme=tokyo-night&area=true&hide_border=true&custom_title=Chinmaygouda's+Contribution+Activity&radius=8" alt="Contribution Activity" width="95%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chinmaygouda&theme=tokyonight" width="95%" alt="Profile Details" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chinmaygouda&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile&count_private=true&include_all_commits=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chinmaygouda&theme=tokyonight" height="175" alt="Repos per Language" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chinmaygouda&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,scss,jupyter%20notebook&langs_count=6" height="165" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chinmaygouda&theme=tokyonight" height="175" alt="Most Commit Language" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chinmaygouda&theme=tokyonight" height="175" alt="Stats" />
 </div>
 
 ---
