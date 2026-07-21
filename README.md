@@ -17,10 +17,10 @@
 
 ### 🚀 About Me
 
-I am a passionate **Full-Stack & AI Developer** focused on creating intelligent tools, automation workflows, and responsive web applications. I love building real-world software powered by modern AI models (like Gemini 1.5 Flash) and robust full-stack architectures.
+I am a passionate **Full-Stack & AI Developer** focused on creating intelligent tools, automation workflows, and responsive web applications. I love building real-world software powered by modern AI models (like Gemini API) and robust full-stack architectures.
 
 - 🧠 **Currently Building**: AI-driven applications with memory recall and smart data extraction tools.
-- 🛠️ **Core Expertise**: TypeScript, Python, Full-Stack Web Development, Gemini API Integration, & Automation.
+- 🛠️ **Core Expertise**: TypeScript, Python, Next.js, Full-Stack Web Development, & Automation.
 - 💡 **Passion**: Solving real problems through clean code, user-centric interfaces, and scalable backend pipelines.
 - 📫 **Reach Me**: [chinmaygoudapatil@gmail.com](mailto:chinmaygoudapatil@gmail.com)
 
@@ -31,34 +31,34 @@ I am a passionate **Full-Stack & AI Developer** focused on creating intelligent 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🤖 Hindsight AI</h3>
-      <p align="center"><i>AI Coding Assistant with Memory Recall</i></p>
-      <p>An intelligent coding assistant that remembers past mistakes and dynamically improves feedback over time using memory-based recall.</p>
-      <p><b>Tech Stack:</b> Python, TypeScript, AI Memory Architecture</p>
-      <p><a href="https://github.com/Chinmaygouda/Hindsight-ai">⭐ View Repository</a></p>
+      <h3 align="center">⚡ HackathonHero</h3>
+      <p align="center"><i>AI Hackathon Copilot</i></p>
+      <p>Gemini API-powered copilot designed for 24-48h hackathons, guiding teams through idea validation, role assignment, roadmap time-boxing, and pitch deck creation.</p>
+      <p><b>Tech Stack:</b> TypeScript, Gemini API, HTML5</p>
+      <p><a href="https://github.com/Chinmaygouda/Hackathon_Hero">⭐ View Repository</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📊 VisionSheet</h3>
-      <p align="center"><i>Image-to-Excel AI Converter</i></p>
-      <p>AI-powered web application that converts unstructured document images into structured Excel spreadsheets leveraging Gemini 1.5 Flash.</p>
-      <p><b>Tech Stack:</b> TypeScript, Gemini 1.5 Flash API, Python, Docker</p>
-      <p><a href="https://github.com/Chinmaygouda/VisionSheet">⭐ View Repository</a></p>
+      <h3 align="center">🏙️ CivicLens</h3>
+      <p align="center"><i>Civic Monitoring & Community Platform</i></p>
+      <p>Modern web application built with Next.js and TypeScript for community civic reporting, local issue monitoring, and interactive location tracking.</p>
+      <p><b>Tech Stack:</b> Next.js, TypeScript, JavaScript, CSS</p>
+      <p><a href="https://github.com/Chinmaygouda/CivicLens">⭐ View Repository</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">⚡ HackathonHero</h3>
-      <p align="center"><i>AI Hackathon Copilot</i></p>
-      <p>Gemini API-powered copilot designed for 24-48h hackathons, aiding in idea validation, role assignment, roadmap time-boxing, and pitch deck creation.</p>
-      <p><b>Tech Stack:</b> TypeScript, Gemini API, Web Technologies</p>
-      <p><a href="https://github.com/Chinmaygouda/Hackathon_Hero">⭐ View Repository</a></p>
+      <h3 align="center">🌤️ Weather App</h3>
+      <p align="center"><i>Dynamic Weather Dashboard</i></p>
+      <p>Responsive weather forecasting application featuring real-time meteorological metrics, location search, and interactive weather visualizers.</p>
+      <p><b>Tech Stack:</b> TypeScript, SCSS, HTML5, JavaScript</p>
+      <p><a href="https://github.com/Chinmaygouda/Weather-app">⭐ View Repository</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📚 LuminaLib</h3>
-      <p align="center"><i>Smart Library Management System</i></p>
-      <p>Modern web portal for library staff to search books by shelf location, manage borrower accounts, and track due dates with color-coded notifications.</p>
-      <p><b>Tech Stack:</b> TypeScript, HTML5/CSS3, Modern Web UI</p>
-      <p><a href="https://github.com/Chinmaygouda/LuminaLib---Smart-Library-Management">⭐ View Repository</a></p>
+      <h3 align="center">💸 FinnExpense</h3>
+      <p align="center"><i>Fintech Expense Tracker & Analytics</i></p>
+      <p>Modern cross-platform expense tracker built with Angular 20 and Ionic 8, featuring OLED dark mode UI, Chart.js cashflow graphs, and fixed expense onboarding.</p>
+      <p><b>Tech Stack:</b> Angular 20, Ionic 8, TypeScript, Chart.js</p>
+      <p><a href="https://github.com/Chinmaygouda/expense_tracker">⭐ View Repository</a></p>
     </td>
   </tr>
 </table>
@@ -78,6 +78,8 @@ I am a passionate **Full-Stack & AI Developer** focused on creating intelligent 
 
 #### 🤖 AI & Frameworks
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
